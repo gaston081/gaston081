@@ -1,44 +1,36 @@
-![keyboard](https://user-images.githubusercontent.com/81445960/142686644-efc20830-066c-43b9-8a2d-cd83fbe93ac4.jpg)
-
-
+![keyboard](images\bws.png)
+  
+<br/>
 
 ## Hola! mi nombre es Gaston! 👋👋👋
 
-Hace un tiempo, y después de trabajar por varios años en la industria retail, decidí que para el resto de mi vida queria dedicarme a hacer algo que realmente me apasione, y hacerlo en un ambito en el cual todos los dias pudiera desafiarme y aprender algo nuevo, afortunadamente pude hacerlo.
-Hoy soy un desarrollador Full Stack.
-
+Después de trabajar por varios años en la industria retail, decidí dedicarme a lo que realmente me apasiona, que es la programacion, y afortunadamente tuve la oportunidad de hacerlo. Hoy soy un desarrollador Full Stack.  
 Tengo experiencia con Javascript, React JS, Redux, Node, Express JS, Sequelize.
-
-Soy una persona curiosa e investigadora, disfruto de involucrarme en situaciones que requieran de pensar y sobre todo, buscar soluciones.
+Soy una persona creativa e investigadora, disfruto de involucrarme en situaciones que requieran de pensar y sobre todo, buscar soluciones.
 Mi experiencia laboral previa, me brindó una serie de aptitudes, entre las que puedo destacar, el enfoque hacia la obtención de resultados, el logro de objetivos, y principalmente el trabajo en equipo.
 Por aca podes ver algunos de los proyectos en los que estuve trabajando..
-<!--
+<br/>
+<br/>
+
+# Proyectos
+
+## Countries App
+
+Countries App es un proyecto individual, en el cual se puede acceder a info y datos relativos a todos los paises del mundo, y como usuario se pueden agregar actividades a los distintos paises. La misma consume la API Rest Countries, de la cual se obtienen todos los datos, y luego se almacenan en la base de datos local, desde donde luego se trabajan los mismos. 
+El Front End fue desarrollado con Javascript, React JS y Redux, todos los estilos y la estetica del proyecto fue realizada con CSS puro sin uso de librerias.
+El Back End fue realizado con Node JS, Express JS y para la dase de datos utilice Sequelize y PostgreSQL. 
+<br/>
+<br/>
+
+![Esta es una imagen](images\collage.jpg)
 
 
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+__________________________________________________________________________________________________________________________
 
+Contactame!
 
+email: gaston081@hotmail.com
 
+![Esta es una imagen](images\linkedinLogo.png
+![https://ejemplo.com/imagen.jpg]
 
-
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...![keyboard](https://user-images.githubusercontent.com/81445960/142686585-252059fb-0775-4716-a304-24c944786394.jpg)
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
