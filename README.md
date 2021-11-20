@@ -1,4 +1,5 @@
-![keyboard](images\bws.png)
+![bws](https://user-images.githubusercontent.com/81445960/142713846-ccce7a77-74a9-4056-baa8-94a44ac8ac30.png)
+
   
 <br/>
 
@@ -22,7 +23,8 @@ El Back End fue realizado con Node JS, Express JS y para la dase de datos utilic
 <br/>
 <br/>
 
-![Esta es una imagen](images\collage.jpg)
+
+![collage](https://user-images.githubusercontent.com/81445960/142713856-53eb43dd-ba46-4483-9ed7-5dad1bb851b8.jpg)
 
 
 __________________________________________________________________________________________________________________________
