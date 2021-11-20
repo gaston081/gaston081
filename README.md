@@ -27,10 +27,8 @@ El Back End fue realizado con Node JS, Express JS y para la dase de datos utilic
 
 __________________________________________________________________________________________________________________________
 
-Contactame!
-
+Contactame!  
 email: gaston081@hotmail.com
 
-![Esta es una imagen](images\linkedinLogo.png
-![https://ejemplo.com/imagen.jpg]
+
 
