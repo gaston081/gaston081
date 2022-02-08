@@ -15,7 +15,7 @@ Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 # Proyectos
 
-## [Countries App](https://github.com/gaston081/PI-Countries)
+## Countries App
 
 Countries App es un proyecto individual, en el cual se puede acceder a info y datos relativos a todos los paises del mundo, y como usuario se pueden agregar actividades a los distintos paises. La misma consume la API Rest Countries, de la cual se obtienen todos los datos, y luego se almacenan en la base de datos local, desde donde luego se trabajan los mismos. 
 El Front End fue desarrollado con Javascript, React JS y Redux, todos los estilos y la estetica del proyecto fue realizada con CSS puro sin uso de librerias.
