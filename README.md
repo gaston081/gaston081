@@ -22,10 +22,9 @@ El Front End fue desarrollado con Javascript, React JS y Redux, todos los estilo
 El Back End fue realizado con Node JS, Express JS y para la base de datos utilice Sequelize y PostgreSQL. 
 <br/>
 <br/>
-
-
 ![collage](https://user-images.githubusercontent.com/81445960/142713856-53eb43dd-ba46-4483-9ed7-5dad1bb851b8.jpg)
 
+_______________________________________________________________________________________________________________________________________________________________________________
 ## Henry Kids
 
 Henry Kids es una SPA desarrollada bajo la modalidad SCRUM, con sprints semanales, la misma consistió en la creación de una App para aprender a programar, orientado a niños y adolescentes, en la cual los alumnos acceden a material desarrollado por distintos profesores.
@@ -33,7 +32,8 @@ El proyecto cuenta con tres tipos de usuarios: Estudiante, Profesor, y un perfil
 Las herramientas utilizadas en el desarrollo del mismo fueron: Html, Css, Javascript, React, Redux, Material UI, Firebase, Node, Express, Sequelize, Sengrid.
 <br/>
 <br/>
-
+![HKids](https://github.com/gaston081/gaston081/blob/main/images/HKids.jpg?raw=true)
+[Video Demo](https://drive.google.com/file/d/1pDg6e-tgW-pUzSXQFWPmBN8qcOZVlhIj/view?usp=sharing)
 
 
 __________________________________________________________________________________________________________________________
