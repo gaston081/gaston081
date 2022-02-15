@@ -24,6 +24,7 @@ El Back End fue realizado con Node JS, Express JS y para la base de datos utilic
 <br/>
 ![collage](https://user-images.githubusercontent.com/81445960/142713856-53eb43dd-ba46-4483-9ed7-5dad1bb851b8.jpg)
 
+[Repo](https://github.com/gaston081/PI-Countries)
 _______________________________________________________________________________________________________________________________________________________________________________
 ## Henry Kids
 
@@ -33,7 +34,11 @@ Las herramientas utilizadas en el desarrollo del mismo fueron: Html, Css, Javasc
 <br/>
 <br/>
 ![HKids](https://github.com/gaston081/gaston081/blob/main/images/HKids.jpg?raw=true)
+
 [Video Demo](https://drive.google.com/file/d/1pDg6e-tgW-pUzSXQFWPmBN8qcOZVlhIj/view?usp=sharing)
+
+[Repo](https://github.com/gaston081/Henry-Kids-1)
+
 
 
 __________________________________________________________________________________________________________________________
