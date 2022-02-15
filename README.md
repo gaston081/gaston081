@@ -19,12 +19,21 @@ Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 
 Countries App es un proyecto individual, en el cual se puede acceder a info y datos relativos a todos los paises del mundo, y como usuario se pueden agregar actividades a los distintos paises. La misma consume la API Rest Countries, de la cual se obtienen todos los datos, y luego se almacenan en la base de datos local, desde donde luego se trabajan los mismos. 
 El Front End fue desarrollado con Javascript, React JS y Redux, todos los estilos y la estetica del proyecto fue realizada con CSS puro sin uso de librerias.
-El Back End fue realizado con Node JS, Express JS y para la dase de datos utilice Sequelize y PostgreSQL. 
+El Back End fue realizado con Node JS, Express JS y para la base de datos utilice Sequelize y PostgreSQL. 
 <br/>
 <br/>
 
 
 ![collage](https://user-images.githubusercontent.com/81445960/142713856-53eb43dd-ba46-4483-9ed7-5dad1bb851b8.jpg)
+
+## Henry Kids
+
+Henry Kids es una SPA desarrollada bajo la modalidad SCRUM, con sprints semanales, la misma consistió en la creación de una App para aprender a programar, orientado a niños y adolescentes, en la cual los alumnos acceden a material desarrollado por distintos profesores.
+El proyecto cuenta con tres tipos de usuarios: Estudiante, Profesor, y un perfil de administrador general.
+Las herramientas utilizadas en el desarrollo del mismo fueron: Html, Css, Javascript, React, Redux, Material UI, Firebase, Node, Express, Sequelize, Sengrid.
+<br/>
+<br/>
+
 
 
 __________________________________________________________________________________________________________________________
