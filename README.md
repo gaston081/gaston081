@@ -44,6 +44,8 @@ ________________________________________________________________________________
 
 Movies App es una pequeña aplicacion que se sirve de la OMDb API, de donde se extraen los datos, en la misma se puede consultar por titulo cualquier pelicula, ver detalles de la misma, y agregar a favoritos. Las herramientas utilizadas en el desarrollo fueron: Javascript, React, Redux, Css y Material UI.
 
+![MoviesApp](https://github.com/gaston081/gaston081/blob/main/images/movies-home.jpg?raw=true)
+
 [Link al Deploy](https://moviesapp-web.vercel.app/)
 
 
