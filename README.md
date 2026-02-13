@@ -12,7 +12,7 @@ Mi experiencia laboral previa, me brindó una serie de aptitudes, entre las que 
 Por aca podes ver algunos de los proyectos en los que estuve trabajando..
 <br/>
 <br/>
-
+<!-- 
 # Proyectos
 
 ## Countries App
@@ -50,7 +50,7 @@ Movies App es una pequeña aplicacion que se sirve de la OMDb API, de donde se e
 
 
 
-Contactame!  
+Contactame!  -->
 email: gaston081@hotmail.com
 
 
